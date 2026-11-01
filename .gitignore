@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OCR 中间产物与成书
+*.jsonl
+*_pages/
+*.epub
+*.preview.txt
+*.report.txt
+*_cover.jpg
+*.log
+
+.DS_Store
+Thumbs.db
